@@ -1,0 +1,9 @@
+= MyRealTrip Code Styles
+
+마리트 개발팀에서 사용할 IntelliJ IDEA 용 Code Style 정의입니다.
+
+== 1.0
+
+JVM 언어인 Java, Kotlin, Scala에 대한 Code Style을 정의했습니다.
+
+향후, Frontend 용 언어에 대한 Code Style은 협의 후 추가해주시기 바랍니다.
