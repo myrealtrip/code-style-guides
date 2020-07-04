@@ -1,9 +1,9 @@
 <scheme name="Darcula-Debop" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-03-01T20:55:23</property>
+    <property name="created">2020-03-12T11:10:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-01T20:55:33</property>
+    <property name="modified">2020-03-12T11:10:52</property>
     <property name="originalScheme">Darcula-Debop</property>
   </metaInfo>
   <colors>
@@ -2268,7 +2268,7 @@
     </option>
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="da5593" />
+        <option name="FOREGROUND" value="da57ca" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
@@ -2288,7 +2288,7 @@
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f36564" />
+        <option name="FOREGROUND" value="557ef3" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
